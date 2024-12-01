@@ -5,7 +5,7 @@ This is the repository for the paper [Rethinking Model-based, Policy-based, and 
 We empirically examine the representation complexity of model, optimal policy, and optimal value functions in various simulated MuJoCo environments.
 
 <p align="center">
-    <img src=" " width="600">
+    <img src="./exp_result.png" width="600">
         <br>
     <em>Figure 1: Main results on various MuJoCo environments.</em>
 </p>
